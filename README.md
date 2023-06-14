@@ -1,4 +1,4 @@
-# Qiskit-cert-exam_review
+# Review for the Qiskit certification exam
 
 This repo is intended to publicly share my personal review for the topics covered in the "IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X" exam.
 
