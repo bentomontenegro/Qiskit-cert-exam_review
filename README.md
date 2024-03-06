@@ -1,4 +1,4 @@
-# Introduction to the topics in the Qiskit certification exam
+# Introduction to the topics of the Qiskit certification exam
 
 This repository is intended to publicly share my personal review for the topics covered in the __IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X__ exam.
 
